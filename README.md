@@ -3,6 +3,8 @@ Displays the current song playing with Spotify in your tmux status bar. When pla
 ![](https://feqzz.no/img/tmux-spotify-info-example.png)
 
 ## Installation
+Dependencies:
+* dbus
 
 ### Installation with Tmux Plugin Manager
 Edit your `.tmux.conf` and append the plugin to your TPM list.
