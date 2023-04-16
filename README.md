@@ -29,7 +29,7 @@ tmux source-file ~/.tmux.conf
 ```
 
 ## Usage
-Edit your `.tmux.conf` file and add `#{mpv_info}` to your `status-right`. Simple example:
+Edit your `.tmux.conf` file and add `#{spotify_info}` to your `status-right`. Simple example:
 ``` tmux
 set -g status-right "#{spotify_info}"
 ```
